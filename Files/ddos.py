@@ -45,18 +45,18 @@ print("""\033[91m
                          DDos ARMY
 
 
-      │                                                     │
-      │             [!!!Prevent Illegal CC-Attack!!!]       │
-      │ Developer :MHD-BLACK-WOLF                           │
-      │ Gmail     :..............@gmail.com                 │
-      │ YouTube   :....................                     │
-      │ Facebook  :....................                     │
-      │ Instagram :........................                 │
-      │             [!!!Any Bug please report me!!!]        │
-      ├─────────────────────────────────────────────────────┤
-      │       Github: https://github.com/Mhdovicx           │
-      │           [!]DO NOT ATTACK GOV WEBSITE[!]           │
-      └─────────────────────────────────────────────────────┘
+
+
+
+
+
+
+
+
+
+
+
+
 """)
 
 useragents=["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1",
