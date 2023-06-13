@@ -36,7 +36,7 @@ if(op==1):
 elif(op==2):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("python2 Files/ddos")
+ os.system("python2 Files/ddos.py")
 elif(op==3):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
