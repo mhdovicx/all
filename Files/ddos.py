@@ -43,8 +43,8 @@ print("""\033[91m
 
 
                          DDos ARMY
-      ┌─────────────────────────────────────────────────────┐
-      │ version 1    (-_-)  CODE BY ::MHD BLACK WOLF        │
+
+
       │                                                     │
       │             [!!!Prevent Illegal CC-Attack!!!]       │
       │ Developer :MHD-BLACK-WOLF                           │
