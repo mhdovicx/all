@@ -28,7 +28,7 @@ b="\033[1;34m"
 o="\033[1;33m"
 bl="\033[1;36;40m"
 
-op=int(raw_input("Options: "))
+op=int(input("Options: "))
 if(op==1):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
@@ -36,11 +36,11 @@ if(op==1):
 elif(op==2):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("python2 Files/RouterMenu.py")
+ os.system("python2 Files/ddos")
 elif(op==3):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("python2 Files/MailMenu.py")
+ os.system("python2 Files/installPkg.py")
 elif(op==4):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
