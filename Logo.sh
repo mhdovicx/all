@@ -12,8 +12,22 @@ echo '
    ██╔══██╗██║     ██╔══██║██║     ██╔═██╗ ██║███╗██║██║   ██║██║     ██╔══╝  
    ██████╔╝███████╗██║  ██║╚██████╗██║  ██╗╚███╔███╔╝╚██████╔╝███████╗██║     
    ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚══╝╚══╝  ╚═════╝ ╚══════╝╚═╝                                                                           
-[3] Title    : AllHackingTools - AllInstallTools  -  ⁣ATTENTION! The author of this article is not respo-
-[3] Github   : https://github.com/mhdovicx  -  nsi⁣ble responsible for any consequences of reading it. 
-[2] Coded By : Mhdovic-blackwolf  -  All materials are provided for educational purposes only! 
-[4]——————-——-–—————-—-–—————-————-—–————-———-—–—————————-——–—————–-——[715]
-'|lolcat -p 1.6 -a -d 2 -s 20.0
+   echo "
+
+██████████████═██████████████═██████████████═██████████████═███████████████╗
+██║                                                                      ██║
+██║  Title    : what you want ? hmm everything is here :AllTools         ██║
+██║  Github   : https://github.com/mhdovicx  -                           ██║
+██║  Coded By : Mhdovic-blackwolf                                        ██║
+██║  instagram: imhdovic                                                 ██║
+██║  ATTENTION! The author of this article is not respo-                 ██║
+██║  ATTENTION !nsi⁣ble responsible for any consequences of reading it    ██║
+██║  ATTENTION! All materials are provided for educational purposes only ██║
+██║  facebook : mhdovic                                                  ██║
+██║  tools    : allhackingtools - allpkginstalltools                     ██║
+██║  tiktok   : blackwolf                                                ██║
+██║  youtube  : mhdovic                                                  ██║
+██║                                                                      ██║
+██████████████═██████████████═██████████████═██████████████═███████████████╝
+
+"|lolcat
