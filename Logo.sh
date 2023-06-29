@@ -23,10 +23,6 @@ echo '
 ██║  ATTENTION! The author of this article is not respo-                 ██║
 ██║  ATTENTION !nsi⁣ble responsible for any consequences of reading it    ██║
 ██║  ATTENTION! All materials are provided for educational purposes only ██║
-██║  facebook : mhdovic                                                  ██║
-██║  tools    : allhackingtools - allpkginstalltools                     ██║
-██║  tiktok   : blackwolf                                                ██║
-██║  youtube  : mhdovic                                                  ██║
 ██║                                                                      ██║
 ██████████████═██████████████═██████████████═██████████████═███████████████╝
 
